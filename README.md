@@ -1,4 +1,4 @@
-# TEMA 1
+# HW1 - Magic-Tape
 
 ## INTRODUCERE
 
