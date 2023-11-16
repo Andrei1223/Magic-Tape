@@ -1,13 +1,13 @@
 # TEMA 1
 
-# -----------------------INTRODUCERE-----------------------------
+## INTRODUCERE
 
 Codul a fost impartit in 4 fisiere, 3 fiind headere care contin functii
 grupate in functie de utilizarea lor. In fisierul principal, numit "banda.c",
 se afla 2 subprograme ce vizeaza initializarea listei dublu inlantuite cu 
 santinela si eliberarea memoriei din aceasta la finalul programului. 
 
-# -----------------------IMPLEMENTARE-----------------------------
+## IMPLEMENTARE
 
 Informatiile primite de program provin din fisierul de input numit
 "tema1.in", unde se afla pe fiecare rand cate o comanda care 
@@ -62,7 +62,7 @@ In final, dupa ce se iese din bucla for, se elibereaza toate listele folosite,
 alaturi de toti pointerii la acestea si apoi se inchid fisierele folosite
 pentru input/output.
 
-# ---------------------------PRECIZARI------------------------------
+## PRECIZARI
 
 1. Se presupune faptul ca se va da ca input numarul corect de comenzi
 "EXECUTE" pentru a goli coada. Astfel, nu exista un subprogram pentru 
@@ -83,7 +83,7 @@ ultimele 4 litere.
 4. De a lungul rularii programului, nu se verifica in niciun fel daca fisierele
 au fost deschise cu succes sau daca memoria a fost alocata cu succes.
 
-# --------------------------FISIERE------------------------------
+## FISIERE
 
 Pentru rezolvarea cerintei am facut 2 headere separat care contin functiile de
 adaugare si eliminare specifice structurii lor. Totodata, mai exista un fisier
